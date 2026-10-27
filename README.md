@@ -1,3 +1,4 @@
+
 Егер тексергіңіз келсе, мына командаларды орындаңыз.
 
 ## 1. team2-site (сайт)
@@ -26,3 +27,6 @@ docker run -d -p 8081:5000 --name team2-timer ayaulymw/team2-timer:1.0
 ```
 docker rm -f team2-site team2-db-data team2-timer
 ```
+=======
+# team2-docker
+
